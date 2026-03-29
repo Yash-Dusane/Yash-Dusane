@@ -4,10 +4,9 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00599C&center=true&vCenter=true&width=500&lines=Hi,+I+am+Yash+Dusane+👋;Student+@+IIIT-H;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00599C&center=true&vCenter=true&width=500&lines=Hi,%20I%20am%20Yash%20Dusane%20%F0%9F%91%8B;Student%20@%20IIIT-H;" alt="Typing SVG" />
   </a>
 </div>
-
 <br>
 
 ## 💫 About Me
@@ -169,8 +168,8 @@ I am a Tech Enthusiast who loves turning complex problems into clean, efficient 
 ### 💻 GitHub Activity & Stats
 
 <div align="center">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Yash-Dusane&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Dusane&layout=compact&langs_count=6&theme=radical" alt="Top Languages" />
+  <img height="130" src="https://github-readme-stats.vercel.app/api?username=Yash-Dusane&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
+  <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Dusane&layout=compact&langs_count=6&theme=radical" alt="Top Languages" />
 </div>
 
 <br>
