@@ -1,7 +1,7 @@
 <div align="center">
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4AF626&center=true&vCenter=true&width=600&lines=Hi,+I+am+Yash+Dusane+👋;Student+@+IIIT-H;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=4AF626&center=true&vCenter=true&width=800&lines=Hi,+I+am+Yash+Dusane+%F0%9F%91%8B;Student+@+IIIT-H" alt="Typing SVG" />
   </a>
   <br>
 </div>
@@ -15,15 +15,17 @@ I am a Tech Enthusiast who loves turning complex problems into clean, efficient 
 
 <br>
 
+---
+
 ### 🛠️ Tech Stack & Tools
 
 | Category | Technologies |
 | :--- | :--- |
-| 💻 **Languages** | <a href="https://en.cppreference.com/w/c/language"><img height="32" src="https://skillicons.dev/icons?i=c&theme=light" alt="C" /></a> <a href="https://isocpp.org/"><img height="32" src="https://skillicons.dev/icons?i=cpp&theme=light" alt="C++" /></a> <a href="https://www.python.org/"><img height="32" src="https://skillicons.dev/icons?i=py&theme=light" alt="Python" /></a> <a href="https://www.mathworks.com/products/matlab.html"><img height="32" src="https://skillicons.dev/icons?i=matlab&theme=light" alt="MATLAB" /> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="32" src="https://skillicons.dev/icons?i=js&theme=light" alt="JavaScript" /> </a></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="32" src="https://skillicons.dev/icons?i=html&theme=light" alt="HTML" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="32" src="https://skillicons.dev/icons?i=css&theme=light" alt="CSS" /></a> |
+| 💻 **Languages** | <a href="https://en.cppreference.com/w/c/language"><img height="32" src="https://skillicons.dev/icons?i=c&theme=light" alt="C" /></a> <a href="https://isocpp.org/"><img height="32" src="https://skillicons.dev/icons?i=cpp&theme=light" alt="C++" /></a> <a href="https://www.python.org/"><img height="32" src="https://skillicons.dev/icons?i=py&theme=light" alt="Python" /></a> <a href="https://www.mathworks.com/products/matlab.html"><img height="32" src="https://skillicons.dev/icons?i=matlab&theme=light" alt="MATLAB" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="32" src="https://skillicons.dev/icons?i=js&theme=light" alt="JavaScript" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="32" src="https://skillicons.dev/icons?i=html&theme=light" alt="HTML" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="32" src="https://skillicons.dev/icons?i=css&theme=light" alt="CSS" /></a> |
 | 🚀 **Frameworks & Databases** | <a href="https://pytorch.org/"><img height="32" src="https://skillicons.dev/icons?i=pytorch&theme=light" alt="PyTorch" /></a> <a href="https://scikit-learn.org/"><img height="32" src="https://skillicons.dev/icons?i=sklearn&theme=light" alt="Scikit-Learn" /></a> <a href="https://www.tensorflow.org/"><img height="32" src="https://skillicons.dev/icons?i=tensorflow&theme=light" alt="TensorFlow" /></a> <a href="https://react.dev/"><img height="32" src="https://skillicons.dev/icons?i=react&theme=light" alt="React" /></a> <a href="https://nodejs.org/"><img height="32" src="https://skillicons.dev/icons?i=nodejs&theme=light" alt="Node.js" /></a> <a href="https://expressjs.com/"><img height="32" src="https://skillicons.dev/icons?i=express&theme=light" alt="Express" /></a> <a href="https://www.mysql.com/"><img height="32" src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MySQL" /></a> <a href="https://www.mongodb.com/"><img height="32" src="https://skillicons.dev/icons?i=mongodb&theme=light" alt="MongoDB" /></a> |
 | ⚙️ **Tools & Infrastructure** | <a href="https://www.kernel.org/"><img height="32" src="https://skillicons.dev/icons?i=linux&theme=light" alt="Linux" /></a> <a href="https://git-scm.com/"><img height="32" src="https://skillicons.dev/icons?i=git&theme=light" alt="Git" /></a> <a href="https://www.arduino.cc/"><img height="32" src="https://skillicons.dev/icons?i=arduino&theme=light" alt="Arduino" /></a> <a href="https://code.visualstudio.com/"><img height="32" src="https://skillicons.dev/icons?i=vscode&theme=light" alt="VS Code" /></a> <a href="https://colab.research.google.com/"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" /></a> |
 
-</br>
+<br>
 
 ---
 
@@ -52,10 +54,11 @@ I am a Tech Enthusiast who loves turning complex problems into clean, efficient 
   > NLP pipeline processing **2.2M+ recipes**. Utilized a custom SpaCy NER model and BERT for contextual ingredient embeddings.
 
 * 🤖 **[State Estimation for Robotics ](https://github.com/Yash-Dusane/State-Estimation)**  — *Python, Robotics, RL* 🔒
-  > Optimized Kalman Filter performance using RL-based tuning of noise gains for real-time robotic estimation 
+  > Optimization of Kalman Filter performance using RL-based tuning of noise gains for real-time robotic estimation 
+
+  > Under Guidance of <b> Prof. Harikumar Kandath </b>
 
 <br>
-</br>
 
 <details open>
   <summary><b><font size="4">🗂️ IIIT-H Project Archive</font></b></summary>
@@ -70,7 +73,7 @@ I am a Tech Enthusiast who loves turning complex problems into clean, efficient 
       <li><b><a href="https://github.com/Yash-Dusane/Music-Player">Music Player</a></b></li>
       <li><b><a href="https://github.com/Yash-Dusane/Shell-in-C">C-Shell</a></b></li>
     </ul>
-    </br>
+    <br>
   </details>
 
   <details>
@@ -81,7 +84,7 @@ I am a Tech Enthusiast who loves turning complex problems into clean, efficient 
       <li><b><a href="https://github.com/Yash-Dusane/SMAI">ML Models (Statistical Methods in AI)</a></b></li>
       <li><b><a href="https://github.com/Yash-Dusane/State-Estimation">State Estimation using RL for UAV</a></b> 🔒</li>
     </ul>
-    </br>
+    <br>
   </details>
 
   <details>
@@ -96,7 +99,7 @@ I am a Tech Enthusiast who loves turning complex problems into clean, efficient 
       <li><b><a href="https://github.com/Yash-Dusane/ALU-Design---Verilog-NGspice-Magic">ALU Design</a></b></li>
       <li><b><a href="https://github.com/Yash-Dusane/Fundamental-Limits-of-Caching ">Fundamental Limits of Caching</a></b></li>
     </ul>
-    </br>
+    <br>
   </details>
 </ul>
 </details>
@@ -121,14 +124,12 @@ I am a Tech Enthusiast who loves turning complex problems into clean, efficient 
 
 ---
 
-
 ### 🧩 Let's Crack the Next Problem Together ...
 
 <br>
 <div align="center">
   <a href="https://leetcode.com/dusaneyash09/">
-    <img src="https://leetcard.jacoblin.cool/dusaneyash09?theme=forest&font=Fira%20" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/dusaneyash09?theme=forest&font=Fira%20Code" alt="LeetCode Stats" />
   </a>
 </div>
-
-</br>
+<br>
